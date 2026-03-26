@@ -1,0 +1,2 @@
+device,model,avg_inference_time
+MacBook_M1,mobilenet_v2,0.012
